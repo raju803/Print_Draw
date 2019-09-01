@@ -1,0 +1,1 @@
+This is painting project.You can draw as your wish.This project use python tkinter.
